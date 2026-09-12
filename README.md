@@ -28,13 +28,13 @@ TareaCUCVirtual.
     |---Pruebas Tecnicas.docx
 ```
 
-## Tecnologías utilizadas
+## Tecnologías Utilizadas
 
 * HTML5
 * CSS
 * JavaScript
 
-## Instrucciones de uso y ejecución
+## Instrucciones de Uso y Ejecución
 
 1. Clonar o descargar el repositorio.
 2. Navegar a la carpeta del proyecto: `TareaCUCVirtual/CUCVirtualPage`.
