@@ -17,7 +17,7 @@ TareaCUCVirtual.
 |---CUCVirtualPage
 |   |---index.html
 |   |---carreras.html
-|   |---informacionGeneral.html
+|   |---general.html
 |   |---scripts.js
 |   |---styles.css
 |       
@@ -38,10 +38,10 @@ TareaCUCVirtual.
 
 1. Clonar o descargar el repositorio.
 2. Navegar a la carpeta del proyecto: `TareaCUCVirtual/CUCVirtualPage`.
-3. Ejecutar el prototipo: Abrir el archivo `index.html` directamente enc ualquier navegador (no requiere servidor ni librerías adicionales).
+3. Ejecutar el prototipo: Abrir el archivo `index.html` directamente en cualquier navegador (no requiere servidor ni librerías adicionales).
 
 ## Pruebas y Evidencias
 
 Las evidencias de verificación y captura de pantalla de la ejecución de cada criterio de aceptación se encuentran detalladas en el documento:
 
-- `Pruebas Tecnicas/Documento de Evidencia de Pruebas Técnicas.docx`
+- `Pruebas Tecnicas/Documento de Evidencia de Pruebas Tecnicas.pdf`
